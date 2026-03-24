@@ -1,6 +1,4 @@
-// Name : Lara Saleh Abu Asfour
-// ID : 1221484
-// Section : 1
+// Name : Lara Abu Asfour
 
 #include <stdio.h>
 #include <stdlib.h>
